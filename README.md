@@ -9,3 +9,7 @@ To install, you must have node/npm and git installed already.
 3. Install expo-cli (what will run the app) by running `npm install expo-cli`
 4. Install other libraries/dependencies by running `expo install`
 5. Run the program by doing `expo start`
+
+# Running on iOS
+To run on iOS, download the Expo Go app from the App Store.
+Then, scan the QR code provided when running Expo, and it should open the Expo Go app from there. Happy coding!
