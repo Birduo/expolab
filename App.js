@@ -19,7 +19,7 @@ function HomeScreen() {
       textAlign:'center', alignItems:'center'
     }}>
       <Text style={{fontSize:30, flex: 1,color: colors.text ,textAlign:'center', alignItems:'center'}}>
-        Balls
+        Home
       </Text>
     </View>
   );
@@ -35,7 +35,7 @@ function SettingsScreen() {
       textAlign:'center', alignItems:'center'
     }}>
       <Text style={{fontSize:30, flex: 1,color: colors.text ,textAlign:'center', alignItems:'center'}}>
-        Balls
+        Settings
       </Text>
     </View>
   );
